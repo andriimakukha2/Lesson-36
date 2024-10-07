@@ -1,0 +1,13 @@
+{
+  "name": "lesson-36",
+  "version": "1.0.0",
+  "description": "Проект TypeScript з функціями для роботи з масивами, користувачами та замовленнями.",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
